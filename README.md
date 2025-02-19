@@ -45,6 +45,11 @@ Perentage_of_Population_Vaccinated: Displays the percentage of vaccinated indivi
 
 GLOBAL_NUMBERS: Aggregates global COVID-19 statistics, including total cases, deaths, and death percentages.
 
+
+![](https://raw.githubusercontent.com/AaliyaBai/SQL-Covid_Analysis/9af0faa70b86d816616db5280f146deb681578c6/Covid_Visualisation.png)
+
+> Covid Data Analysis and Visualisation.
+
 ### Key SQL Queries and Insights
 
 ##### 1. COVID-19 Trends by Location
