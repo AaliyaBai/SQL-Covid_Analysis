@@ -9,7 +9,7 @@ This project analyzes COVID-19 data, including cases, deaths, and vaccinations, 
 
 SQL Server – Data querying and transformation
 
-Power BI – Data visualization
+Tableau – Data visualization
 
  #### Dataset
 
